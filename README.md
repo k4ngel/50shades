@@ -1,0 +1,6 @@
+# 50shades
+Systemy Operacyjne 2 // Opis projektu – dystrybucja ksi¹¿ek
+
+Producent drukuje kolejne egzemplarze ksi¹¿ek „50 Twarzy Greya”, które rozchodz¹ siê natychmiastowo. Ksi¹¿ki przewo¿one s¹ przez dostawców do ksiêgarñ, w których to z kolei ustawiaj¹ siê kolejki klientów, oczekuj¹cych na kolejne dostawy.
+Sekcjami krytycznymi w tym wypadku s¹ punkty, w których stykaj¹ siê poszczególne ogniwa: tylko jeden dostawca mo¿e znajdowaæ siê w danej chwili u producenta i ³adowaæ ksi¹¿ki, równie¿ maksymalnie jeden dostawca mo¿e roz³adowywaæ ksi¹¿ki do sklepu. Oprócz tego, tylko jeden klient w danej chwili mo¿e dokonywaæ zakupu ksi¹¿ki.
+Interfejs u¿ytkownika zrealizowany bêdzie przy u¿yciu biblioteki ncurses. Na ekranie wyœwietlane bêd¹ informacje o liczbie dostawców, ksiêgarni i klientów. Oprócz tego producent opisany bêdzie liczb¹ aktualnie posiadanych druków i prêdkoœci produkcji, przy ka¿dym z dostawców bêdzie informacja o jego aktualnym zadaniu (podró¿ z albo do drukarni, roz³adunek, za³adunek), a ka¿dy sklep opisany bêdzie informacj¹ o liczbie aktualnie posiadanych ksi¹¿ek i liczbie klientów w kolejce.
