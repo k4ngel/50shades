@@ -1,4 +1,11 @@
 # 50shades
+
+Simple concurrent programming project using ncurses lib made during my studies. A producer prints "50 Shades of Grey" books, which are delievered to bookstores. These bookstores are visited by readers who infinitely demand more copies.
+
+You can find a description of this project in Polish below – it was used as a base of what I was supposed to do.
+
+---
+
 Systemy Operacyjne 2 // Opis projektu – dystrybucja ksi¹¿ek
 
 Producent drukuje kolejne egzemplarze ksi¹¿ek „50 Twarzy Greya”, które rozchodz¹ siê natychmiastowo. Ksi¹¿ki przewo¿one s¹ przez dostawców do ksiêgarñ, w których to z kolei ustawiaj¹ siê kolejki klientów, oczekuj¹cych na kolejne dostawy.
